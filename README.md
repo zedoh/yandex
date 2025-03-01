@@ -22,6 +22,9 @@
 улучшить меню 
 ![image](https://github.com/user-attachments/assets/04472855-5bb8-4e19-bc77-45eb43e0ad76)
 
+![image](https://github.com/user-attachments/assets/02f59199-b905-48fb-8e1e-1f82f54ce43d)
+
+
 ![image](https://github.com/user-attachments/assets/53e38f8a-d396-4fe2-9912-4932a01ace86)
 
 для большинства из целей уже есть анимации и текстура - например
